@@ -1488,6 +1488,7 @@
     </library>
     <library name="puma (v3.8.2, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/3.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/puma-3.8.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/puma-3.8.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/puma-3.8.2/lib" />
@@ -1496,6 +1497,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/puma-3.8.2/gemfiles" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/3.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/puma-3.8.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/puma-3.8.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/puma-3.8.2/lib" />
