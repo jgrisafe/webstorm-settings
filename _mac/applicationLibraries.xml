@@ -278,10 +278,12 @@
     </library>
     <library name="bindex (v0.5.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bindex/0.5.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/bindex-0.5.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/bindex-0.5.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bindex/0.5.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/bindex-0.5.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/bindex-0.5.0/lib" />
       </SOURCES>
@@ -712,12 +714,14 @@
     </library>
     <library name="ffi (v1.9.18, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ffi-1.9.18/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ffi-1.9.18/libtest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ffi-1.9.18/lib" />
@@ -1254,11 +1258,13 @@
     </library>
     <library name="nio4r (v2.0.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/2.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/nio4r-2.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/nio4r-2.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/nio4r-2.0.0/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/2.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/nio4r-2.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/nio4r-2.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/nio4r-2.0.0/tasks" />
@@ -1320,6 +1326,7 @@
     </library>
     <library name="nokogiri (v1.7.1, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.7.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/nokogiri-1.7.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/nokogiri-1.7.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/nokogiri-1.7.1/lib" />
@@ -1328,6 +1335,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/nokogiri-1.7.1/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.7.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/nokogiri-1.7.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/nokogiri-1.7.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/nokogiri-1.7.1/lib" />
@@ -1774,14 +1782,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ruby-progressbar-1.8.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="rubygems-bundler (v1.4.4, RVM: ruby-2.3.3) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/rubygems-bundler-1.4.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/rubygems-bundler-1.4.4/lib" />
       </SOURCES>
     </library>
     <library name="rubygems-bundler (v1.4.4, RVM: ruby-2.4.0) [gem]">
