@@ -752,6 +752,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/ffi-1.9.18/libtest" />
       </SOURCES>
     </library>
+    <library name="foreman (v0.83.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/foreman-0.83.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/foreman-0.83.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/foreman-0.83.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/foreman-0.83.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/foreman-0.83.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/foreman-0.83.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/foreman-0.83.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/foreman-0.83.0/data" />
+      </SOURCES>
+    </library>
     <library name="foreman (v0.84.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/foreman-0.84.0/bin" />
@@ -2254,6 +2268,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/uglifier-3.1.13/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v3.1.7, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/uglifier-3.1.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/uglifier-3.1.7/lib" />
       </SOURCES>
     </library>
     <library name="uglifier (v3.2.0, RVM: ruby-2.3.3) [gem]">
