@@ -1466,20 +1466,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/paperclip-5.1.0/shoulda_macros" />
       </SOURCES>
     </library>
-    <library name="paperclip (v5.1.0@093b4d, RVM: ruby-2.3.3) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/paperclip-093b4da18444/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/paperclip-093b4da18444/features" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/paperclip-093b4da18444/gemfiles" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/paperclip-093b4da18444/shoulda_macros" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/paperclip-093b4da18444/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/paperclip-093b4da18444/features" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/paperclip-093b4da18444/gemfiles" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/paperclip-093b4da18444/shoulda_macros" />
-      </SOURCES>
-    </library>
     <library name="paperclip (v5.1.0@093b4d, RVM: ruby-2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/bundler/gems/paperclip-093b4da18444/lib" />
@@ -2390,6 +2376,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/web-console-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="webpacker (v1.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/webpacker-1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/webpacker-1.0/lib" />
       </SOURCES>
     </library>
     <library name="webpacker (v1.0, RVM: ruby-2.4.0) [gem]">
