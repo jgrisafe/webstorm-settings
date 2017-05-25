@@ -1,0 +1,10 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+</keymap>
