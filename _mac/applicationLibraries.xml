@@ -136,6 +136,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/actionview-5.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="active_model_serializers (v0.10.0@a70177, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/active_model_serializers-a701777bd5b0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/active_model_serializers-a701777bd5b0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/active_model_serializers-a701777bd5b0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/active_model_serializers-a701777bd5b0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/active_model_serializers-a701777bd5b0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/active_model_serializers-a701777bd5b0/.github" />
+      </SOURCES>
+    </library>
     <library name="active_model_serializers (v0.10.0@a70177, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/active_model_serializers-a701777bd5b0/bin" />
@@ -316,6 +328,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/activesupport-5.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="acts_as_list (v0.9.5@6d5005, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/acts_as_list-6d50054fa11f/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/acts_as_list-6d50054fa11f/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/acts_as_list-6d50054fa11f/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/acts_as_list-6d50054fa11f/gemfiles" />
       </SOURCES>
     </library>
     <library name="addressable (v2.2.8, RVM: ruby-2.3.3) [gem]">
@@ -1630,6 +1652,7 @@
     </library>
     <library name="json (v1.8.6, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-1.8.6/data" />
@@ -1639,6 +1662,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-1.8.6/data" />
@@ -2264,6 +2288,20 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/os-0.9.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/os-0.9.6/autotest" />
+      </SOURCES>
+    </library>
+    <library name="paperclip (v5.0.0.beta2@26a4f4, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/paperclip-26a4f4fc11df/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/paperclip-26a4f4fc11df/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/paperclip-26a4f4fc11df/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/paperclip-26a4f4fc11df/shoulda_macros" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/paperclip-26a4f4fc11df/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/paperclip-26a4f4fc11df/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/paperclip-26a4f4fc11df/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/paperclip-26a4f4fc11df/shoulda_macros" />
       </SOURCES>
     </library>
     <library name="paperclip (v5.1.0, RVM: ruby-2.3.1) [gem]">
@@ -3280,6 +3318,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/sidekiq-4.0.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/sidekiq-4.0.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/sidekiq-4.0.2/web" />
+      </SOURCES>
+    </library>
+    <library name="signet (v0.6.1@75b40b, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/signet-75b40be1a990/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/signet-75b40be1a990/yard" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/signet-75b40be1a990/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/signet-75b40be1a990/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/signet-75b40be1a990/website" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/signet-75b40be1a990/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/signet-75b40be1a990/yard" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/signet-75b40be1a990/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/signet-75b40be1a990/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/signet-75b40be1a990/website" />
       </SOURCES>
     </library>
     <library name="signet (v0.7.3, RVM: ruby-2.3.1) [gem]">
