@@ -3032,6 +3032,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redis-namespace-1.5.3/lib" />
       </SOURCES>
     </library>
+    <library name="representable (v2.3.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/representable-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/representable-2.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="representable (v2.4.1, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/representable-2.4.1/lib" />
