@@ -1366,6 +1366,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/i18n-0.8.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="i18n (v0.8.4, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/i18n-0.8.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/i18n-0.8.4/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/i18n-0.8.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/i18n-0.8.4/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="imgkit (v1.6.1, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/imgkit-1.6.1/bin" />
@@ -1954,6 +1964,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@global/gems/mini_portile2-2.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="mini_portile2 (v2.2.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mini_portile2-2.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mini_portile2-2.2.0/concourse" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mini_portile2-2.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mini_portile2-2.2.0/concourse" />
+      </SOURCES>
+    </library>
     <library name="minitest (v5.10.1, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/minitest-5.10.1/lib" />
@@ -2242,6 +2262,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.7.2/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.7.2/patches" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.7.2/suppressions" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.8.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.8.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.8.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.8.0/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.8.0/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.8.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.8.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.8.0/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nokogiri-1.8.0/suppressions" />
       </SOURCES>
     </library>
     <library name="oauth2 (v1.3.1, RVM: ruby-2.3.1) [gem]">
