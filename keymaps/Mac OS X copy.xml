@@ -2,10 +2,9 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
-  <action id="CloseAllEditorsButActive">
+  <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
-  <action id="CloseContent" />
   <action id="EditorSelectWord" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
