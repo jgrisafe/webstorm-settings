@@ -80,7 +80,6 @@
     </context>
   </template>
   <template name="cstt" value="constructor(props) {&#10;  super(props)&#10;  $END$&#10;}&#10;" description="React: constructor(props)" toReformat="true" toShortenFQNames="true">
-    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
