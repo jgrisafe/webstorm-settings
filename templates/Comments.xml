@@ -1,5 +1,5 @@
 <templateSet group="Comments">
-  <template name="chead" value="/* $HEADING$&#10;=========================================================*/&#10;$STUFF$" description="Comment Header" toReformat="false" toShortenFQNames="true">
+  <template name="chead" value="/* $HEADING$&#10;========================================================= */&#10;  $STUFF$" description="Comment Header" toReformat="false" toShortenFQNames="true">
     <variable name="HEADING" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="STUFF" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
