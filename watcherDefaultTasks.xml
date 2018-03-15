@@ -17,7 +17,7 @@
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Current File" />
       <option name="trackOnlyRoot" value="false" />
-      <option name="workingDir" value="" />
+      <option name="workingDir" value="$USER_HOME$/Dev/classy-dev/appv2" />
       <envs />
     </TaskOptions>
   </component>
