@@ -1,7 +1,7 @@
 <application>
   <component name="ApplicationTasksOptions">
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--write $FilePathRelativeToProjectRoot$ eslint --fix $FilePathRelativeToProjectRoot$" />
+      <option name="arguments" value="--fix $FilePathRelativeToProjectRoot$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
@@ -13,7 +13,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$USER_HOME$/Dev/classy-dev/appv2/node_modules/prettier/bin/prettier.js" />
+      <option name="program" value="$ProjectFileDir$/node_modules/eslint/bin/eslint.js" />
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Current File" />
       <option name="trackOnlyRoot" value="false" />
