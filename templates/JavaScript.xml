@@ -5,7 +5,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="debugger" value="debugger // eslint-disable-line" description="debugger" toReformat="false" toShortenFQNames="true">
+  <template name="debug" value="debugger // eslint-disable-line" description="debugger" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
