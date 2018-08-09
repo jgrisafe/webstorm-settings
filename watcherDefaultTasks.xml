@@ -104,7 +104,7 @@
       <option name="arguments" value="--fix &quot;$FilePathRelativeToProjectRoot$&quot;" />
       <option name="checkSyntaxErrors" value="false" />
       <option name="description" />
-      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="exitCodeBehavior" value="NEVER" />
       <option name="fileExtension" value="js" />
       <option name="immediateSync" value="false" />
       <option name="name" value="Eslint Fix" />
@@ -117,7 +117,7 @@
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Current File" />
       <option name="trackOnlyRoot" value="false" />
-      <option name="workingDir" value="" />
+      <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
   </component>
