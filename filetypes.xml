@@ -2,11 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="config" type="JavaScript" />
-      <removed_mapping ext="js" type="JavaScript" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".env-example" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
-      <mapping ext="js" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="Twig" />
     </extensionMap>
   </component>
