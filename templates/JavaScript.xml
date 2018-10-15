@@ -10,7 +10,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="cblock" value="console.log('==================================================\n') // eslint-disable-line no-console&#10;console.log($1$) // eslint-disable-line no-console&#10;console.log('==================================================\n') // eslint-disable-line no-console" description="comment with dividers" toReformat="false" toShortenFQNames="true">
+  <template name="cblock" value="console.log('==============================================\n') // eslint-disable-line no-console&#10;console.log($1$) // eslint-disable-line no-console&#10;console.log('==============================================\n') // eslint-disable-line no-console" description="comment with dividers" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
