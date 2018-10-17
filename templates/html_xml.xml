@@ -1,0 +1,9 @@
+<templateSet group="html/xml">
+  <template name="html" value="&lt;!DOCTYPE html&gt;&#10;&lt;html&gt;&#10;&lt;head&gt;&#10;  &lt;meta charset=&quot;utf-8&quot;/&gt;&#10;  &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;&#10;  &lt;title&gt;$1$&lt;/title&gt;&#10;  &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;  $2$&#10;&lt;/body&gt;&#10;&lt;/html&gt;" description="HTML Page Template" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
