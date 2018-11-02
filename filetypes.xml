@@ -4,8 +4,8 @@
     <extensionMap>
       <mapping ext="config" type="JavaScript" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern=".env-example" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".env-example" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="Twig" />
     </extensionMap>
