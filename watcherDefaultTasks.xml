@@ -108,7 +108,7 @@
       <option name="fileExtension" value="js" />
       <option name="immediateSync" value="false" />
       <option name="name" value="Eslint Fix" />
-      <option name="output" value="$ProjectFileDir$" />
+      <option name="output" value="$ProjectFileDir$/src" />
       <option name="outputFilters">
         <array />
       </option>
