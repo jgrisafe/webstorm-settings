@@ -9,6 +9,7 @@
       <mapping pattern="*.js.txt" type="JavaScript" />
       <mapping pattern=".sequelizerc" type="JavaScript" />
       <mapping ext="config" type="JavaScript" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".env-example" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
