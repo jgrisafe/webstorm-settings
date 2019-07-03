@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.log;*.pyc;*.pyo;*.rbc;*.snap;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;cerberus;classyapp;coverage;currency;deploy;lib;module.js;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.hprof;*.log;*.pyc;*.pyo;*.rbc;*.snap;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;cerberus;classyapp;coverage;currency;deploy;lib;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="*.ng.html" type="Angular2Html" />
       <mapping ext="trg" type="DBN-PSQL" />
@@ -8,10 +8,10 @@
       <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping ext="html" type="Handlebars/Mustache" />
