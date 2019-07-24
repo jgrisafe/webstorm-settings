@@ -1,0 +1,14 @@
+<templateSet group="user">
+  <template name="action" value="import { fetch, headers } from '../utils/fetch'&#10;&#10;/* ACTIONS&#10;=========================================================*/&#10;&#10;&#10;/* REQUESTS&#10;=========================================================*/&#10;&#10;&#10;/* HELPERS&#10;=========================================================*/&#10;&#10;&#10;/* EXPORTS&#10;=========================================================*/&#10;&#10;" description="action file template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="reducer" value="import { assoc } from 'ramda'&#10;&#10;import { $CONSTANT$ } from '../constants'&#10;&#10;const initialState = {}&#10;&#10;export default function $NAME$(state = initialState, action) {&#10;  const { type, payload } = action&#10;&#10;  switch (type) {&#10;    case $END$&#10;    default:&#10;      return state&#10;  }&#10;}&#10;" description="base reducer" toReformat="false" toShortenFQNames="true">
+    <variable name="CONSTANT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
