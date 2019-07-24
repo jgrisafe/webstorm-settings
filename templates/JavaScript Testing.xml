@@ -1,8 +1,0 @@
-<templateSet group="JavaScript Testing">
-  <template name="gid" value="const $1$ = getInjectedDependency('$1$');" description="inserts getInjectedDependency" toReformat="false" toShortenFQNames="true">
-    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-</templateSet>

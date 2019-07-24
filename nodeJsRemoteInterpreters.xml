@@ -1,6 +1,0 @@
-<application>
-  <component name="NodeJSRemoteInterpreters">
-    <interpreter node-remote-interpreter="docker://classydev_appv2:latest/node" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="classydev_appv2:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" VERSION="" />
-    <interpreter node-remote-interpreter="docker://301199101081.dkr.ecr.us-west-2.amazonaws.com/pay-admin:staging/node" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="301199101081.dkr.ecr.us-west-2.amazonaws.com/pay-admin:staging" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" VERSION="" />
-  </component>
-</application>

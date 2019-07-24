@@ -1,8 +1,0 @@
-<templateSet group="Enzyme">
-  <template name="enzb" value="import React from 'react'&#10;import { mount, shallow } from 'enzyme'&#10;import { expect } from 'chai'&#10;&#10;import $Component$ from '../'&#10;&#10;describe('&lt;$Component$/&gt;', () =&gt; {&#10;  it('should...', () =&gt; {&#10;    const wrapper = shallow(&lt;$Component$ /&gt;)&#10;    expect(wrapper)&#10;  })&#10;})&#10;" description="Enzyme basic setup" toReformat="false" toShortenFQNames="true">
-    <variable name="Component" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-</templateSet>
