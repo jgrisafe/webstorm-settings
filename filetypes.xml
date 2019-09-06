@@ -19,6 +19,7 @@
       <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern=".sequelizerc" type="JavaScript" />
       <mapping ext="config" type="JavaScript" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern=".env-example" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
