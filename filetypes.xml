@@ -1,17 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.log;*.pyc;*.pyo;*.rbc;*.snap;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.hprof;*.log;*.pyc;*.pyo;*.rbc;*.snap;*.yarb;*~;.DS_Store;.git;.hg;.svn;.webpack;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="*.ng.html" type="Angular2Html" />
       <mapping pattern="Dockerfile.karma-chrome" type="Dockerfile" />
       <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern=".sequelizerc" type="JavaScript" />
       <mapping ext="config" type="JavaScript" />
-      <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern=".env-example" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern=".env-local-tunnel" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
