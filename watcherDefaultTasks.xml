@@ -149,7 +149,7 @@
         <option name="fileExtension" value="js" />
         <option name="immediateSync" value="true" />
         <option name="name" value="ESLint" />
-        <option name="output" value="" />
+        <option name="output" value="$FilePathRelativeToProjectRoot$" />
         <option name="outputFilters">
           <array />
         </option>
@@ -158,7 +158,7 @@
         <option name="runOnExternalChanges" value="true" />
         <option name="scopeName" value="Current File" />
         <option name="trackOnlyRoot" value="true" />
-        <option name="workingDir" value="" />
+        <option name="workingDir" value="$USER_HOME$/Dev/trident" />
         <envs />
       </TaskOptions>
     </global-watchers>
