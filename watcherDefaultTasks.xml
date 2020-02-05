@@ -142,7 +142,7 @@
         <envs />
       </TaskOptions>
       <TaskOptions>
-        <option name="arguments" value="--fix $FilePathRelativeToProjectRoot$" />
+        <option name="arguments" value="--fix $FilePath$" />
         <option name="checkSyntaxErrors" value="true" />
         <option name="description" />
         <option name="exitCodeBehavior" value="NEVER" />
