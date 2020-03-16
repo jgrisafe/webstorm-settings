@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="sso" />
-    <option name="defaultScopeName" value="sso" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="sso" />
+    <option name="customScope" value="appv2" />
+    <option name="defaultScopeName" value="appv2" />
+    <option name="SEARCH_SCOPE" value="appv2" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
