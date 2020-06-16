@@ -158,7 +158,7 @@
         <option name="runOnExternalChanges" value="false" />
         <option name="scopeName" value="Current File" />
         <option name="trackOnlyRoot" value="true" />
-        <option name="workingDir" value="$USER_HOME$/Dev/trident" />
+        <option name="workingDir" value="$ProjectFileDir$" />
         <envs />
       </TaskOptions>
     </global-watchers>
