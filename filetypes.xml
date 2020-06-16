@@ -8,8 +8,8 @@
       <mapping pattern=".sequelizerc" type="JavaScript" />
       <mapping ext="config" type="JavaScript" />
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
-      <mapping pattern=".env-example" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".env-example" type="PLAIN_TEXT" />
       <mapping pattern=".env-local-tunnel" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
